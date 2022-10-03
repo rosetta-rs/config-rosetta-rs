@@ -47,7 +47,7 @@ null | 0 KiB | 3s *(full)* <br/>211ms *(incremental)* | 0ms | - | v4.0.1
 *rustc: rustc 1.64.0 (a55dd71d5 2022-09-19)*
 
 Notes:
-- Overhead will be lower if your application shares dependencies with your argument parsing library.
+- Overhead will be lower if your application shares dependencies with your config library.
 
 # Running the Benchmarks
 
