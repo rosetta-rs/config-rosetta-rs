@@ -1,0 +1,12 @@
+[package]
+name = "null-app"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "null-app"
+path = "app.rs"
+
+[dependencies]
+directories = "4.0.1"
+toml = "0.5.9"
