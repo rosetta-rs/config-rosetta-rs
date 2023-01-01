@@ -9,4 +9,4 @@ path = "app.rs"
 
 [dependencies]
 directories = "4.0.1"
-toml = "0.5.9"
+toml = "0.5.10"
