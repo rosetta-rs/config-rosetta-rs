@@ -1,6 +1,6 @@
 fn main() {
     let config = Config::load();
-    println!("{:?}", config);
+    println!("{config:?}");
 }
 
 #[derive(Clone, Default, Debug)]
